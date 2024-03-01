@@ -15,7 +15,7 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
 
 
 
-## 🔗 Links
+## 🛠 Skills
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![java script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,13 +23,6 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
 
 
 
-
-## 🛠 Skills
-- JavaScript
-- HTML
-- CSS
-- Kali Linux
-- Network Security
 ## Contact Information
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](PardisMadad@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pardis-m-8523b42b2)
