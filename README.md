@@ -9,7 +9,7 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
 ## Interests
 - Frontend Development
 - Web Technologies
-- Network Security
+- Web & Network Security
 
 
 ## 🛠 Skills
