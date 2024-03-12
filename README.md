@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=7B20F7&background=FFFFFF00&random=false&width=435&lines=Hi.I'm+Pardis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=7B20F7&background=FFFFFF00&random=false&width=435&lines=Hi.I'm+Pardis)](https://git.io/typing-svg) <img src="https://github.com/pardis-mdd/pardis-mdd/blob/main/MyGif.gif" width="200" height="200" display:center />
 
 
 ## 🦋 About Me
