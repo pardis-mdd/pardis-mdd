@@ -13,7 +13,7 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,linux,figma&theme=light)](https://skillicons.dev)
 
 
 ## Contact Information
