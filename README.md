@@ -21,7 +21,7 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
   <a href="https://linkedin.com/in/pardis-m-8523b42b2" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="gmailto:PardisMadad@gmail.com" target="_blank">
+  <a href="mailto:PardisMadad@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
