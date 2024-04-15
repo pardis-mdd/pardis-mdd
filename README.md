@@ -2,11 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=7B20F7&background=FFFFFF00&random=false&width=400&lines=Hi.I'm+Pardis)](https://git.io/typing-svg)<img src="https://github.com/pardis-mdd/pardis-mdd/blob/main/PGif.gif" width="200" height="200" display:center />
 
 
-## 🦋 About Me
-Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'm deeply passionate about technology, particularly in the realms of frontend development, web technologies, and networking. Currently, I'm actively involved in the network&web field, where I'm honing my skills and gaining valuable experience.
 
-
-## Interests
+## 🦋Interests
 - Frontend Development
 - Web Technologies
 - Web & Network Security
