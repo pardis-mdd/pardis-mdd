@@ -29,6 +29,6 @@ Hello there! I'm Pardis , a computer Engineering student at Urmia University. I'
 ###
 ##
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pardis-mdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardis-mdd&layout=compact"/>
 </div>
 
