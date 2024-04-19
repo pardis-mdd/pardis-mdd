@@ -26,6 +26,6 @@
 ###
 ##
 <div align="left">
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardis-mdd&layout=compact"/>
 </div>
 
