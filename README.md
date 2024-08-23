@@ -10,7 +10,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,python,flask,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,linux,figma&theme=light)](https://skillicons.dev)
 
 
 ## Contact Information
